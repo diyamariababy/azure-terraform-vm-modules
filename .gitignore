@@ -1,0 +1,11 @@
+# Terraform files
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfvars   # contains secrets like passwords
+*.backup
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
