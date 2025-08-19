@@ -9,5 +9,5 @@ terraform {
 provider "azurerm" {
   features {
 }
-subscription_id = "<your-subscription-id"
+subscription_id = "<your-subscription-id>"
 }
